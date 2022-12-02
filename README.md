@@ -12,3 +12,4 @@ Github: https://github.com/frutaseca<br/>
 Email: brandonrodriguezvega@gmail.com
 
 ## Link to walkthrough video
+https://drive.google.com/file/d/1qxe16S7DriSZ247P9HY1EzjszcoaIl-o/view 
