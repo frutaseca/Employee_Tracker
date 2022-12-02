@@ -50,6 +50,7 @@ IntroQues = () => {
                 'View Employee By Manager',
                 'Exit'
             ]
+            // changes which function is brought up based on what choice is selected
         }).then(answer => {
             switch (answer.choose) {
                 case "View All Departments":
